@@ -18,6 +18,9 @@
 // Bead Press: https://www.youtube.com/watch?v=gFEbM-8Ypj0&ab_channel=BrawlStars-SoundEffects
 // Enter Key: https://www.youtube.com/watch?v=h8y0JMVwdmM&ab_channel=SoundLibrary
 //
+// ConfetttiSwiftUI:
+// https://github.com/simibac/ConfettiSwiftUI
+// 
 //  Created by Keaton Goebel on 4/26/24.
 //
 
