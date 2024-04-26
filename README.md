@@ -1,8 +1,6 @@
 # Mastermind!
 
-Mastermind is a SwiftUI iOS app that adapts the classic board game. It started off as a school project in the Winter semester of my senior year, but I enjoyed working on it so much I continued working on it after school ended and even got it approved to the app store on "DATE". Here is a link to download Mastermind from the app Store 
-
-Mastermind!: "LINK"
+Mastermind is a SwiftUI iOS app that adapts the classic board game. It started off as a school project in the Winter semester of my senior year, but I enjoyed working on it so much I continued working on it after school ended. I am currently working on getting it uploaded to the App Store.
 
 ## How to Play Mastermind!
 
